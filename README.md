@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# 50 React Projects in 50 Days
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I was inspired by the [50 Day 50 Projects](https://github.com/bradtraversy/50projects50days) created by Traversy Media owned by Brad Traversy which uses,
+vanilla JS along with HTML, and CSS.
+I'm making a the same projects using React with some small additions in some of these awesome projects.
 
 ## Demo
 
