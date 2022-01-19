@@ -4,9 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-![First Step](./images/first.png)
-![Steps](./images/second.png)
-![Last Step](./images/last.png)
+![First Step](./images/first.png).
+
+![Steps](./images/second.png).
+
+![Last Step](./images/last.png).
 
 ## Available Scripts
 
